@@ -1,0 +1,62 @@
+1. Print all variables and their types in DataTypes.py
+2. Operators.py: write print statements for all other operators (ex: 10 - 2 = 8)
+3. Operators.py: #TODO: please print "Hello Srikant" add a space in between two strings
+4. write a program to find the lenght of a given string (don't use the builtin in function len())
+5. take five integer variables and using if condition find out the biggest number.
+6. Write a program to find whether two given strings are equal or not.
+
+Difficult:
+print a right angled triangle as shown below (take the no. of lines to be printed as a variable)
+
+
+
+*
+**
+***
+****
+*****
+******
+
+
+Use nested for loops to print a triangle as shown below:
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+
+"I explained nested for loops today and lI explained nested for loops today and loops are really simple. By the way, loops c  I explained nested for loops today and loops are really simple. By the way, loops c I explained nested for loops today and loops are really simple. By the way, loops coops are really simple. By the way, loops can be used to perform certain comparisons"
+
+write a program using string operations(split) and dictionaries to get the word count
+
+I -> 1
+loops -> 12
+
+
+29thMay2018 : Assignment
+
+
+# Try to use loops (nested) and print pascal's triangle
+#
+#        1
+#     1  2  1
+#   1  3   3  1
+# 1   4  6   4  1
+
+#
+# 1. Write a method named 'subtract' which takes two
+# parameters i, j and print the result
+# 2. Write a method named 'subtract' which takes two
+# parameters i, j and returns result
+# 3.  Write a method named 'subtract' which takes two
+# parameters i, j , where j is default parameter(=5)
+# returns the result
+# 4.  Write a method named 'multiply' which takes multiple
+# parameters i, j, k.....z  and returns the result
+
+keep the code to print triangle in a method and pass the number of rows as an argument.
+print_triangle(3) # prints 3 rows
+print_triangle(5)  # prints 5 rows
+
