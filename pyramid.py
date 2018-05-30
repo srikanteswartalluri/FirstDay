@@ -1,3 +1,6 @@
+import Module
+
+Module.wish_guest("Srikant")
 rows = 6
 #   *
 #  ***

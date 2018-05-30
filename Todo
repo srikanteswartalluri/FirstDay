@@ -40,10 +40,11 @@ loops -> 12
 
 # Try to use loops (nested) and print pascal's triangle
 #
-#        1
-#     1  2  1
-#   1  3   3  1
-# 1   4  6   4  1
+#         1
+#       1   1
+#     1   2   1
+#   1   3   3   1
+# 1   4   6   4   1
 
 #
 # 1. Write a method named 'subtract' which takes two
@@ -59,4 +60,48 @@ loops -> 12
 keep the code to print triangle in a method and pass the number of rows as an argument.
 print_triangle(3) # prints 3 rows
 print_triangle(5)  # prints 5 rows
+
+30thMay2018
+
+#################################################################################################
+Write a method called fib(n) which prints n mumbers in fibonacci series (Use recursion)
+# fibanocci series
+
+# 1 1 2 3 5 8 ......
+# fib(1) = 1
+# fib(2) = 1, 1
+# fib(3) = 1, 1, 2
+# fib(4) = 1, 1, 2, 3
+# fib(5) = 1, 1, 2, 3, 5
+#
+# fib(5) =        fib(4), 5
+#        = fib(3),    4 , 5
+#        = fib(2), 3, 4 , 5
+#        = fib(1), 2 ,3 ,4, 5
+####################################################################################################
+Write a sample package which consists of modules
+1. arithmetic functions like add, sub, mult, div
+2. fibonacci  and factorial
+
+Now, write a program to import modules from that package and call the methods inside the module.
+####################################################################################################
+this is the file content
+"""this is first line
+this is second line
+this is third line
+this is fourth line
+this is fifth line"""
+
+Use file operations to replace 'first' with '1st' , 'second' with '2nd' ......
+a. file operation
+b. string replacement
+c. dictionary
+####################################################################################################
+
+in the word_count_file.py: complete the word frequency method and move it to the module.
+hint: look at wordFrequency.py
+
+
+
+
 
