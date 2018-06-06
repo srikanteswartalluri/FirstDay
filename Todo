@@ -102,6 +102,21 @@ in the word_count_file.py: complete the word frequency method and move it to the
 hint: look at wordFrequency.py
 
 
+May 31st 2018:
+######################################################################################################
+Create a class named Employee which has attributes : name, occupation, salary, department, experience, performance
+calculateBonus based on experience, performance (1,2,3,4)
+canPromote based on experience
+#######################################################################################################
+#write a class Snake which inherits Animal Class
+#and overrides make_sound and show_love
+#######################################################################################################
+
+1stJune2018
+#########################################################################################################
+write withDrawal method in Account and test it with different cases
+#########################################################################################################
+
 
 
 

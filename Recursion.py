@@ -28,14 +28,31 @@
 #         = 4 * 3 * 2 * 1
 
 
-
+#with recursion
 def fact(n):
     if n == 1:
         return 1
     return n * fact(n-1)
 
-res = fact(6)
+#without recursion
+n = 3
+factorial = 1
+for i in range(1,n+1):
+    factorial = factorial * i
 
+print(factorial)
+
+
+
+# res = fact(6)
+#
+# print(res)
+
+# fact(1)
+#
+# fact(2)
+
+res = fact(3)
 print(res)
 
 
